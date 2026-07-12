@@ -9,11 +9,9 @@
         <a href="https://github.com/birhanuderso"><img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007acc?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" /></a>
         <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel%20%26%20React%20Expert-%23ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel & React" /></a>
       </p>
-     
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🚀 About Me
