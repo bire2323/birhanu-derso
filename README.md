@@ -1,13 +1,18 @@
-<p align="center">
-  <img src="6H2A4827(1).jpg" alt="Birhanu Derso Tegegne" width="280" style="border-radius: 15px; border: 3px solid #007acc; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-</p>
-
-# 👋 Hi, I'm Birhanu Derso Tegegne!
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007acc?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/Laravel%20%26%20React%20Expert-%23ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel & React" />
-</p>
+<table>
+  <tr>
+    <td align="center" valign="middle" width="30%">
+      <img src="6H2A4827(1).jpg" alt="Birhanu Derso Tegegne" width="220" style="border-radius: 50%; border: 4px solid #007acc; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+    </td>
+    <td valign="middle" width="70%">
+      <h1>👋 Hi, I'm Birhanu Derso Tegegne!</h1>
+      <p align="left">
+        <a href="https://github.com/birhanuderso"><img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007acc?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" /></a>
+        <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel%20%26%20React%20Expert-%23ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel & React" /></a>
+      </p>
+     
+    </td>
+  </tr>
+</table>
 
 ---
 
