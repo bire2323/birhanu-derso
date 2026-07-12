@@ -84,8 +84,8 @@ I am a passionate and driven **Full-Stack Web Application Developer** dedicated 
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birhanuderso&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Birhanu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birhanuderso&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bire2323&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Birhanu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bire2323&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
