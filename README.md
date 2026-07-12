@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Birhanu Derso Tegegne!
 
 <p align="center">
@@ -13,8 +11,8 @@
 I am a passionate and driven **Full-Stack Web Application Developer** dedicated to building robust, scalable, and highly efficient web and mobile applications. I enjoy solving complex architectural challenges, creating elegant user interfaces, and bridging the gap between back-end logic and front-end user experience.
 
 - 🎓 **Education:** Computer Science Student at the University of Gondar
-- 💼 **Passion:** Full-Stack Web Development, System & Network Administration, Intelligent AI Chatbots
-- 🌱 **Current Project:** Building **MedFinder** – a comprehensive healthcare & pharmacy ecosystem featuring microservices, AI capabilities, and cross-platform dashboards.
+- 💼 **Passion:** Full-Stack Web Development, System & Network Administration
+- 🌱 **Current Project:** Building **MedFinder** – a healthcare and pharmacy platform featuring a smart prescription reader.
 
 ---
 
@@ -41,21 +39,33 @@ I am a passionate and driven **Full-Stack Web Application Developer** dedicated 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-#### **Databases & Mobile**
+#### **Databases & Mobile Development**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-#### **Specialized Technical Knowledge**
-- **AI & NLP:** Rasa Chatbot Framework, BERT Integration, Natural Language Understanding (with deep localization support)
-- **DevOps & SysAdmin:** Linux Server Management (Ubuntu Server), Containerization (Docker, Docker Compose), DNS Configuration (BIND9), Mail Servers (Postfix), Firebase Deployment
+#### **DevOps & SysAdmin**
+- **Linux Server Management:** Ubuntu Server configuration, static IP routing
+- **Networking & Services:** DNS Configuration (BIND9), Mail Routing (Postfix)
+- **Containerization & Deployment:** Multi-container orchestration via Docker Compose, Firebase deployments
 
 ---
 
-### 🔥 Featured Projects & Architecture Focus
-* **MedFinder Platform:** An all-in-one healthcare architecture integrating a high-performance Laravel/React frontend web platform, specialized FastAPI microservices for OCR processing, and an intelligent localized conversational agent built on Rasa.
-* **Network & Systems Administration:** Active deployment and automation of internal DNS zone topologies, robust mail routing protocols, and multi-container orchestration.
+### 🔥 Academic & Featured Projects
+
+* 🏥 **MedFinder Platform**
+  * **Tech Stack:** React, Laravel, FastAPI
+  * **Key Feature:** Integrated a highly efficient **Prescription Reader** leveraging specialized optical text extraction to simplify healthcare/pharmacy tasks.
+
+* 🛍️ **E-Commerce Application**
+  * **Tech Stack:** React, Tailwind CSS, Laravel
+  * **Description:** A robust, high-performance web storefront equipped with responsive product catalogs, layout components, and dynamic API authentication routing.
+
+* ✈️ **Tour Booking System**
+  * **Tech Stack:** React, Bootstrap, PHP
+  * **Description:** A streamlined booking utility featuring interactive dashboards for client reservation logs, dynamic filtering options, and smooth view states.
 
 ---
 
@@ -68,9 +78,7 @@ I am a passionate and driven **Full-Stack Web Application Developer** dedicated 
 ---
 
 ### ✉️ Connect With Me
-- **LinkedIn:** [linkedin.com/in/birhanu-derso](https://linkedin.com) *(Update with your link!)*
-- **Portfolio:** Deployed on Firebase *(Link your custom domain or web portfolio!)*
+- **Telegram:** [t.me/birhanu_21](https://t.me/birhanu_21)
+- **Portfolio:** [birhanuderso16.web.app](https://birhanuderso16.web.app/)
 
 💡 *“Driven by engineering clean code, implementing semantic technologies, and building meaningful solutions.”*
-README.md
-Displaying README.md.
