@@ -18,7 +18,7 @@
 ### 🚀 About Me
 I am a passionate and driven **Full-Stack Web Application Developer** dedicated to building robust, scalable, and highly efficient web and mobile applications. I enjoy solving complex architectural challenges, creating elegant user interfaces, and bridging the gap between back-end logic and front-end user experience.
 
-- 🎓 **Education:** Computer Science Student at the University of Gondar
+- 🎓 **Education:** Computer Science Gragduated at the University of Gondar
 - 💼 **Passion:** Full-Stack Web Development, System & Network Administration
 - 🌱 **Current Project:** Building **Project on freelance based** .
 
